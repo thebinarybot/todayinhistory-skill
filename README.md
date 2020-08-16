@@ -2,7 +2,7 @@
 Lets user know of a significant event that happened on this date in history
 
 ## About
-This is a custom skill which is created to let the user know what eventned on this day in history. this highlights all the prime events that happened years back using a freely available api.
+This is a custom skill which is created to let the user know what eventned on this day in history. This highlights all the prime events that happened years back using a freely available api.
 
 ## Examples
 * "Today in history"
